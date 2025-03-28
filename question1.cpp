@@ -1,3 +1,4 @@
+// E14101082_陳政謙
 #include <iostream>
 #include <cmath>
 #include <vector>
